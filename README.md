@@ -7,7 +7,7 @@ youtube clone.
 ### Specifications
 
 - HTML
--CSS
+- CSS
 
 ### Site Capture
 
